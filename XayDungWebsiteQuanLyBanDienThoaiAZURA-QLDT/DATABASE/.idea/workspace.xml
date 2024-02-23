@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56d44786-806a-4f51-9512-5ce3b2e77258" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_10.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_10014.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_11.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_12.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_13.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_14.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_16.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_17.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_18.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_19.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_20.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_21.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_22.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_23.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_24.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_25.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_26.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_27.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_28.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_29.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_30.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_31.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_32.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_33.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_34.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_35.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_36.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_37.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_38.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_39.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_40.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_41.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_42.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_43.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/PDF/HoaDon_9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/main/java/com/example/demo/Controller/Admin/HoaDonAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DATN/src/main/java/com/example/demo/Controller/Admin/HoaDonAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DATN/src/main/java/com/example/demo/Service/HoaDonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DATN/src/main/java/com/example/demo/Service/HoaDonService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2YlMkirIvBKih5gzBICpRh070XU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.export.id" value="SQL Inserts" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DatabaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="DATABASE" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DatabaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56d44786-806a-4f51-9512-5ce3b2e77258" name="Default Changelist" comment="" />
+      <created>1701095857828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701095857828</updated>
+      <workItem from="1701095858957" duration="2271000" />
+      <workItem from="1701229158077" duration="5000" />
+      <workItem from="1701248799500" duration="1433000" />
+      <workItem from="1701660855731" duration="639000" />
+      <workItem from="1701662293314" duration="672000" />
+      <workItem from="1701677006156" duration="1796000" />
+      <workItem from="1701688157403" duration="37000" />
+      <workItem from="1701688570542" duration="608000" />
+      <workItem from="1701752364307" duration="1522000" />
+      <workItem from="1701781338853" duration="6403000" />
+      <workItem from="1701807450102" duration="486000" />
+      <workItem from="1701828794245" duration="9022000" />
+      <workItem from="1701877295626" duration="3713000" />
+      <workItem from="1701915028896" duration="4207000" />
+      <workItem from="1701968898719" duration="604000" />
+      <workItem from="1702009294242" duration="9533000" />
+      <workItem from="1702133040930" duration="722000" />
+      <workItem from="1702168445033" duration="479000" />
+      <workItem from="1702188133437" duration="3088000" />
+      <workItem from="1702200984599" duration="69000" />
+      <workItem from="1702208206234" duration="1560000" />
+      <workItem from="1702219728869" duration="621000" />
+      <workItem from="1702256921513" duration="691000" />
+      <workItem from="1702352663757" duration="1400000" />
+      <workItem from="1702356030426" duration="672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
